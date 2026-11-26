@@ -2,7 +2,7 @@
 
 # Omsai Gulhane
 
-**Backend Engineering | DevOps | Cloud Infrastructure**
+![Backend | DevOps | Cloud](./assets/omsai-cyberpunk-pixel-banner.png)
 
 B.Tech ENTC (2027) · Minor in Computer Science and Business Systems · Pune, India
 
