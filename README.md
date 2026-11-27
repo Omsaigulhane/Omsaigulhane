@@ -13,7 +13,7 @@ My interests include designing reliable services, understanding system behavior,
 - Focus: Backend Development, SRE, DevOps, Cloud Engineering
 - Primary programming language: Java
 - Also working with: Python, SQL, Node.js
-- Currently strengthening: Linux, Networking, Docker, Cloud, CI/CD, Observability
+- Currently strengthening: Linux, Networking, Docker, Cloud, CI/CD, Observability, OS
 
 ---
 
@@ -80,11 +80,9 @@ Developed a computer vision pipeline using YOLO for road damage detection. Impro
 
 ## Achievements
 
+- 4X Hackathons Winner 
 - NPTEL Programming in Java — **Top 2%, 97%** (IIT Kharagpur)
-- Solved **350+ LeetCode problems**, primarily using Java
-- Co-Head, e-Yantra Robotics Club
-- Secretary, IETE Student Chapter
-- Participated in engineering hackathons and technical competitions
+- Solved **400+ LeetCode problems**
 
 ---
 
@@ -100,10 +98,6 @@ Developed a computer vision pipeline using YOLO for road damage detection. Impro
 
 ## Connect
 
-[GitHub](https://github.com/Omsaigulhane) · [LinkedIn](https://www.linkedin.com/) 
+[GitHub](https://github.com/Omsaigulhane) · [LinkedIn](https://www.linkedin.com/)· [LeetCode](https://leetcode.com/u/omsai_gulhane/) 
 
 ---
-
-\<p align="center">
-&#x20; \<i>Build reliable systems. Automate what matters. Keep improving.\</i>
-\</p>
